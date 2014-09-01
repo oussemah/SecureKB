@@ -1,0 +1,1367 @@
+Archive member included because of file (symbol)
+
+/home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+                              ./main.o (GPIO_Init)
+/home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+                              ./main.o (RCC_AHBPeriphClockCmd)
+/home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+                              ./main.o (USART_Init)
+/home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+                              ./GNU/startup_stm32l1xx_md.o (SystemInit)
+/home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-exit.o)
+                              /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/crt0.o (exit)
+/home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-impure.o)
+                              /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-exit.o) (_global_impure_ptr)
+/home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-init.o)
+                              /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/crt0.o (__libc_init_array)
+/home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-memset.o)
+                              /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/crt0.o (memset)
+/home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o)
+                              /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-exit.o) (__call_exitprocs)
+/home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-atexit.o)
+                              /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o) (atexit)
+/home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-fini.o)
+                              /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o) (__libc_fini_array)
+/home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__atexit.o)
+                              /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-atexit.o) (__register_exitproc)
+
+Allocating common symbols
+Common symbol       size              file
+
+GPIO_InitStructure  0x8               ./main.o
+USART_InitStructure
+                    0x10              ./main.o
+RCC_Clocks          0x10              ./main.o
+
+Discarded input sections
+
+ .text          0x00000000        0x0 /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/crti.o
+ .data          0x00000000        0x0 /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/crti.o
+ .bss           0x00000000        0x0 /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/crti.o
+ .data          0x00000000        0x4 /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/crtbegin.o
+ .text          0x00000000       0x74 /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .data          0x00000000        0x0 /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .bss           0x00000000        0x0 /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .ARM.extab     0x00000000        0x0 /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .ARM.exidx     0x00000000        0x8 /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .ARM.attributes
+                0x00000000       0x1b /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+ .group         0x00000000        0x8 ./User/stm32l1xx_it.o
+ .group         0x00000000        0x8 ./User/stm32l1xx_it.o
+ .group         0x00000000        0x8 ./User/stm32l1xx_it.o
+ .group         0x00000000        0x8 ./User/stm32l1xx_it.o
+ .group         0x00000000        0x8 ./User/stm32l1xx_it.o
+ .group         0x00000000        0x8 ./User/stm32l1xx_it.o
+ .group         0x00000000        0x8 ./User/stm32l1xx_it.o
+ .group         0x00000000        0x8 ./User/stm32l1xx_it.o
+ .group         0x00000000        0x8 ./User/stm32l1xx_it.o
+ .group         0x00000000        0x8 ./User/stm32l1xx_it.o
+ .group         0x00000000        0x8 ./User/stm32l1xx_it.o
+ .group         0x00000000        0x8 ./User/stm32l1xx_it.o
+ .group         0x00000000        0x8 ./User/stm32l1xx_it.o
+ .group         0x00000000        0x8 ./User/stm32l1xx_it.o
+ .group         0x00000000        0x8 ./User/stm32l1xx_it.o
+ .group         0x00000000        0x8 ./User/stm32l1xx_it.o
+ .group         0x00000000        0x8 ./User/stm32l1xx_it.o
+ .group         0x00000000        0x8 ./User/stm32l1xx_it.o
+ .group         0x00000000        0x8 ./User/stm32l1xx_it.o
+ .group         0x00000000        0x8 ./User/stm32l1xx_it.o
+ .group         0x00000000        0x8 ./User/stm32l1xx_it.o
+ .group         0x00000000        0x8 ./User/stm32l1xx_it.o
+ .group         0x00000000        0x8 ./User/stm32l1xx_it.o
+ .group         0x00000000        0x8 ./User/stm32l1xx_it.o
+ .group         0x00000000        0x8 ./User/stm32l1xx_it.o
+ .group         0x00000000        0x8 ./User/stm32l1xx_it.o
+ .group         0x00000000        0x8 ./User/stm32l1xx_it.o
+ .group         0x00000000        0x8 ./User/stm32l1xx_it.o
+ .group         0x00000000        0x8 ./User/stm32l1xx_it.o
+ .group         0x00000000        0x8 ./User/stm32l1xx_it.o
+ .group         0x00000000        0x8 ./User/stm32l1xx_it.o
+ .group         0x00000000        0x8 ./User/stm32l1xx_it.o
+ .group         0x00000000        0x8 ./User/stm32l1xx_it.o
+ .group         0x00000000        0x8 ./User/stm32l1xx_it.o
+ .group         0x00000000        0x8 ./User/stm32l1xx_it.o
+ .group         0x00000000        0x8 ./User/stm32l1xx_it.o
+ .group         0x00000000        0x8 ./User/stm32l1xx_it.o
+ .group         0x00000000        0x8 ./User/stm32l1xx_it.o
+ .group         0x00000000        0x8 ./User/stm32l1xx_it.o
+ .group         0x00000000        0x8 ./User/stm32l1xx_it.o
+ .group         0x00000000        0x8 ./User/stm32l1xx_it.o
+ .group         0x00000000        0x8 ./User/stm32l1xx_it.o
+ .group         0x00000000        0x8 ./User/stm32l1xx_it.o
+ .group         0x00000000        0x8 ./User/stm32l1xx_it.o
+ .group         0x00000000        0x8 ./User/stm32l1xx_it.o
+ .group         0x00000000        0x8 ./User/stm32l1xx_it.o
+ .group         0x00000000        0x8 ./User/stm32l1xx_it.o
+ .group         0x00000000        0x8 ./User/stm32l1xx_it.o
+ .group         0x00000000        0x8 ./User/stm32l1xx_it.o
+ .group         0x00000000        0x8 ./User/stm32l1xx_it.o
+ .text          0x00000000        0x0 ./User/stm32l1xx_it.o
+ .data          0x00000000        0x0 ./User/stm32l1xx_it.o
+ .bss           0x00000000        0x0 ./User/stm32l1xx_it.o
+ .text          0x00000000       0x14 ./GNU/startup_stm32l1xx_md.o
+ .data          0x00000000        0x0 ./GNU/startup_stm32l1xx_md.o
+ .bss           0x00000000        0x0 ./GNU/startup_stm32l1xx_md.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .group         0x00000000        0x8 ./main.o
+ .text          0x00000000        0x0 ./main.o
+ .data          0x00000000        0x0 ./main.o
+ .bss           0x00000000        0x0 ./main.o
+ .debug_macro   0x00000000      0x850 ./main.o
+ .debug_macro   0x00000000       0x6f ./main.o
+ .debug_macro   0x00000000       0x34 ./main.o
+ .debug_macro   0x00000000       0x16 ./main.o
+ .debug_macro   0x00000000       0x44 ./main.o
+ .debug_macro   0x00000000      0x209 ./main.o
+ .debug_macro   0x00000000       0x18 ./main.o
+ .debug_macro   0x00000000      0x735 ./main.o
+ .debug_macro   0x00000000     0x6ba4 ./main.o
+ .debug_macro   0x00000000      0x43e ./main.o
+ .debug_macro   0x00000000       0xb4 ./main.o
+ .debug_macro   0x00000000       0xa9 ./main.o
+ .debug_macro   0x00000000      0x17f ./main.o
+ .debug_macro   0x00000000       0x82 ./main.o
+ .debug_macro   0x00000000      0x3ae ./main.o
+ .debug_macro   0x00000000       0xb9 ./main.o
+ .debug_macro   0x00000000      0x422 ./main.o
+ .debug_macro   0x00000000      0x17d ./main.o
+ .debug_macro   0x00000000      0x203 ./main.o
+ .debug_macro   0x00000000      0x2b2 ./main.o
+ .debug_macro   0x00000000       0x64 ./main.o
+ .debug_macro   0x00000000      0x325 ./main.o
+ .debug_macro   0x00000000       0xc8 ./main.o
+ .debug_macro   0x00000000       0xe1 ./main.o
+ .debug_macro   0x00000000      0x413 ./main.o
+ .debug_macro   0x00000000      0x5cf ./main.o
+ .debug_macro   0x00000000      0x341 ./main.o
+ .debug_macro   0x00000000      0x357 ./main.o
+ .debug_macro   0x00000000      0x421 ./main.o
+ .debug_macro   0x00000000      0x668 ./main.o
+ .debug_macro   0x00000000      0x220 ./main.o
+ .debug_macro   0x00000000       0x34 ./main.o
+ .debug_macro   0x00000000       0x88 ./main.o
+ .debug_macro   0x00000000       0x35 ./main.o
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .text          0x00000000        0x0 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .data          0x00000000        0x0 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .bss           0x00000000        0x0 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .text.GPIO_DeInit
+                0x00000000       0xbc /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .text.GPIO_StructInit
+                0x00000000       0x12 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .text.GPIO_PinLockConfig
+                0x00000000       0x24 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .text.GPIO_ReadInputDataBit
+                0x00000000        0xc /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .text.GPIO_ReadInputData
+                0x00000000        0x6 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .text.GPIO_ReadOutputDataBit
+                0x00000000        0xc /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .text.GPIO_ReadOutputData
+                0x00000000        0x6 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .text.GPIO_SetBits
+                0x00000000        0x4 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .text.GPIO_ResetBits
+                0x00000000        0x4 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .text.GPIO_Write
+                0x00000000        0x4 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .text.GPIO_ToggleBits
+                0x00000000        0xa /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .debug_macro   0x00000000       0x6f /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .debug_macro   0x00000000       0x34 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .debug_macro   0x00000000       0x16 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .debug_macro   0x00000000       0x44 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .debug_macro   0x00000000      0x209 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .debug_macro   0x00000000       0x18 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .debug_macro   0x00000000      0x735 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .debug_macro   0x00000000     0x6ba4 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .debug_macro   0x00000000      0x43e /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .debug_macro   0x00000000       0xb4 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .debug_macro   0x00000000       0xa9 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .debug_macro   0x00000000      0x17f /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .debug_macro   0x00000000       0x82 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .debug_macro   0x00000000      0x3ae /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .debug_macro   0x00000000       0xb9 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .debug_macro   0x00000000      0x422 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .debug_macro   0x00000000      0x17d /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .debug_macro   0x00000000      0x2b2 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .debug_macro   0x00000000       0x64 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .debug_macro   0x00000000      0x325 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .debug_macro   0x00000000       0xc8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .debug_macro   0x00000000       0xe1 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .debug_macro   0x00000000      0x413 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .debug_macro   0x00000000      0x5cf /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .debug_macro   0x00000000      0x341 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .debug_macro   0x00000000      0x357 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .debug_macro   0x00000000      0x421 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .debug_macro   0x00000000      0x668 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .debug_macro   0x00000000      0x220 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .debug_macro   0x00000000       0x34 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .debug_macro   0x00000000       0x88 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .debug_macro   0x00000000       0x35 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .text          0x00000000        0x0 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .data          0x00000000        0x0 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .bss           0x00000000        0x0 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .text.RCC_DeInit
+                0x00000000       0x3c /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .text.RCC_HSEConfig
+                0x00000000       0x10 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .text.RCC_AdjustMSICalibrationValue
+                0x00000000        0xc /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .text.RCC_MSIRangeConfig
+                0x00000000       0x14 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .text.RCC_MSICmd
+                0x00000000        0xc /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .text.RCC_AdjustHSICalibrationValue
+                0x00000000       0x14 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .text.RCC_HSICmd
+                0x00000000        0xc /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .text.RCC_LSEConfig
+                0x00000000       0x10 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .text.RCC_LSICmd
+                0x00000000        0xc /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .text.RCC_PLLConfig
+                0x00000000       0x10 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .text.RCC_PLLCmd
+                0x00000000        0xc /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .text.RCC_ClockSecuritySystemCmd
+                0x00000000        0xc /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .text.RCC_LSEClockSecuritySystemCmd
+                0x00000000        0xc /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .text.RCC_MCOConfig
+                0x00000000        0xc /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .text.RCC_SYSCLKConfig
+                0x00000000       0x14 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .text.RCC_GetSYSCLKSource
+                0x00000000       0x10 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .text.RCC_HCLKConfig
+                0x00000000       0x14 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .text.RCC_PCLK1Config
+                0x00000000       0x14 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .text.RCC_PCLK2Config
+                0x00000000       0x14 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .text.RCC_RTCCLKConfig
+                0x00000000       0x30 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .text.RCC_RTCCLKCmd
+                0x00000000        0xc /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .text.RCC_RTCResetCmd
+                0x00000000        0xc /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .text.RCC_APB2PeriphClockCmd
+                0x00000000       0x18 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .text.RCC_AHBPeriphResetCmd
+                0x00000000       0x18 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .text.RCC_APB2PeriphResetCmd
+                0x00000000       0x18 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .text.RCC_APB1PeriphResetCmd
+                0x00000000       0x18 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .text.RCC_AHBPeriphClockLPModeCmd
+                0x00000000       0x18 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .text.RCC_APB2PeriphClockLPModeCmd
+                0x00000000       0x18 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .text.RCC_APB1PeriphClockLPModeCmd
+                0x00000000       0x18 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .text.RCC_ITConfig
+                0x00000000       0x18 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .text.RCC_GetFlagStatus
+                0x00000000       0x20 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .text.RCC_WaitForHSEStartUp
+                0x00000000       0x30 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .text.RCC_ClearFlag
+                0x00000000       0x10 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .text.RCC_GetITStatus
+                0x00000000       0x14 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .text.RCC_ClearITPendingBit
+                0x00000000        0xc /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .debug_macro   0x00000000      0x85c /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .debug_macro   0x00000000       0x6f /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .debug_macro   0x00000000       0x34 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .debug_macro   0x00000000       0x16 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .debug_macro   0x00000000       0x44 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .debug_macro   0x00000000      0x209 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .debug_macro   0x00000000       0x18 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .debug_macro   0x00000000      0x735 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .debug_macro   0x00000000     0x6ba4 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .debug_macro   0x00000000      0x43e /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .debug_macro   0x00000000       0xb4 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .debug_macro   0x00000000       0xa9 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .debug_macro   0x00000000      0x17f /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .debug_macro   0x00000000       0x82 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .debug_macro   0x00000000      0x3ae /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .debug_macro   0x00000000       0xb9 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .debug_macro   0x00000000      0x422 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .debug_macro   0x00000000      0x17d /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .debug_macro   0x00000000      0x203 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .debug_macro   0x00000000      0x2b2 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .debug_macro   0x00000000       0x64 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .debug_macro   0x00000000      0x325 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .debug_macro   0x00000000       0xc8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .debug_macro   0x00000000       0xe1 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .debug_macro   0x00000000      0x5cf /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .debug_macro   0x00000000      0x341 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .debug_macro   0x00000000      0x357 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .debug_macro   0x00000000      0x421 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .debug_macro   0x00000000      0x668 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .debug_macro   0x00000000      0x220 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .debug_macro   0x00000000       0x34 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .debug_macro   0x00000000       0x88 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .debug_macro   0x00000000       0x35 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .text          0x00000000        0x0 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .data          0x00000000        0x0 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .bss           0x00000000        0x0 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .text.USART_DeInit
+                0x00000000       0x90 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .text.USART_StructInit
+                0x00000000       0x16 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .text.USART_ClockInit
+                0x00000000       0x20 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .text.USART_ClockStructInit
+                0x00000000        0xc /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .text.USART_SetPrescaler
+                0x00000000       0x12 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .text.USART_OverSampling8Cmd
+                0x00000000       0x18 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .text.USART_OneBitMethodCmd
+                0x00000000       0x18 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .text.USART_SetAddress
+                0x00000000       0x16 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .text.USART_ReceiverWakeUpCmd
+                0x00000000       0x18 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .text.USART_WakeUpConfig
+                0x00000000       0x16 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .text.USART_LINBreakDetectLengthConfig
+                0x00000000       0x16 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .text.USART_LINCmd
+                0x00000000       0x18 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .text.USART_SendBreak
+                0x00000000        0xc /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .text.USART_HalfDuplexCmd
+                0x00000000       0x18 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .text.USART_SetGuardTime
+                0x00000000       0x12 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .text.USART_SmartCardCmd
+                0x00000000       0x18 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .text.USART_SmartCardNACKCmd
+                0x00000000       0x18 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .text.USART_IrDAConfig
+                0x00000000       0x16 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .text.USART_IrDACmd
+                0x00000000       0x18 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .text.USART_DMACmd
+                0x00000000       0x12 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .text.USART_ITConfig
+                0x00000000       0x30 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .text.USART_ClearFlag
+                0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .text.USART_GetITStatus
+                0x00000000       0x40 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .text.USART_ClearITPendingBit
+                0x00000000        0xe /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .debug_macro   0x00000000      0x85c /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .debug_macro   0x00000000       0x6f /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .debug_macro   0x00000000       0x34 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .debug_macro   0x00000000       0x16 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .debug_macro   0x00000000       0x44 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .debug_macro   0x00000000      0x209 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .debug_macro   0x00000000       0x18 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .debug_macro   0x00000000      0x735 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .debug_macro   0x00000000     0x6ba4 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .debug_macro   0x00000000      0x43e /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .debug_macro   0x00000000       0xb4 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .debug_macro   0x00000000       0xa9 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .debug_macro   0x00000000      0x17f /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .debug_macro   0x00000000       0x82 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .debug_macro   0x00000000      0x3ae /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .debug_macro   0x00000000       0xb9 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .debug_macro   0x00000000      0x422 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .debug_macro   0x00000000      0x17d /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .debug_macro   0x00000000      0x203 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .debug_macro   0x00000000      0x2b2 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .debug_macro   0x00000000       0x64 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .debug_macro   0x00000000      0x325 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .debug_macro   0x00000000       0xc8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .debug_macro   0x00000000       0xe1 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .debug_macro   0x00000000      0x413 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .debug_macro   0x00000000      0x5cf /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .debug_macro   0x00000000      0x341 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .debug_macro   0x00000000      0x357 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .debug_macro   0x00000000      0x421 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .debug_macro   0x00000000      0x668 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .debug_macro   0x00000000       0x34 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .debug_macro   0x00000000       0x88 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .debug_macro   0x00000000       0x35 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .group         0x00000000        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .text          0x00000000        0x0 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .data          0x00000000        0x0 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .bss           0x00000000        0x0 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .text.SystemCoreClockUpdate
+                0x00000000       0x90 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .data.PLLMulTable
+                0x00000000        0x9 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .data.AHBPrescTable
+                0x00000000       0x10 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .data.SystemCoreClock
+                0x00000000        0x4 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .debug_macro   0x00000000      0x85c /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .debug_macro   0x00000000       0x6f /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .debug_macro   0x00000000       0x34 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .debug_macro   0x00000000       0x16 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .debug_macro   0x00000000       0x44 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .debug_macro   0x00000000      0x209 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .debug_macro   0x00000000       0x18 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .debug_macro   0x00000000      0x735 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .debug_macro   0x00000000     0x6ba4 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .debug_macro   0x00000000      0x43e /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .debug_macro   0x00000000       0xb4 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .debug_macro   0x00000000       0xa9 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .debug_macro   0x00000000      0x17f /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .debug_macro   0x00000000       0x82 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .debug_macro   0x00000000      0x3ae /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .debug_macro   0x00000000       0xb9 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .debug_macro   0x00000000      0x422 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .debug_macro   0x00000000      0x17d /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .debug_macro   0x00000000      0x203 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .debug_macro   0x00000000      0x2b2 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .debug_macro   0x00000000       0x64 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .debug_macro   0x00000000      0x325 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .debug_macro   0x00000000       0xc8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .debug_macro   0x00000000       0xe1 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .debug_macro   0x00000000      0x413 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .debug_macro   0x00000000      0x5cf /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .debug_macro   0x00000000      0x341 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .debug_macro   0x00000000      0x357 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .debug_macro   0x00000000      0x421 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .debug_macro   0x00000000      0x668 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .debug_macro   0x00000000      0x220 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .debug_macro   0x00000000       0x34 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .debug_macro   0x00000000       0x88 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .debug_macro   0x00000000       0x35 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .text          0x00000000        0x0 /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-exit.o)
+ .data          0x00000000        0x0 /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-exit.o)
+ .bss           0x00000000        0x0 /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-exit.o)
+ .text.exit     0x00000000       0x20 /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000       0x2d /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-exit.o)
+ .debug_frame   0x00000000       0x28 /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-exit.o)
+ .text          0x00000000        0x0 /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-impure.o)
+ .data          0x00000000        0x0 /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-impure.o)
+ .bss           0x00000000        0x0 /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-impure.o)
+ .data._impure_ptr
+                0x00000000        0x4 /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-impure.o)
+ .text          0x00000000        0x0 /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-init.o)
+ .data          0x00000000        0x0 /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-init.o)
+ .bss           0x00000000        0x0 /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-init.o)
+ .text          0x00000000        0x0 /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-memset.o)
+ .data          0x00000000        0x0 /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-memset.o)
+ .bss           0x00000000        0x0 /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-memset.o)
+ .text.memset   0x00000000       0x94 /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-memset.o)
+ .ARM.attributes
+                0x00000000       0x2d /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-memset.o)
+ .debug_frame   0x00000000       0x2c /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-memset.o)
+ .text          0x00000000        0x0 /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o)
+ .data          0x00000000        0x0 /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o)
+ .bss           0x00000000        0x0 /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o)
+ .text.__call_exitprocs
+                0x00000000       0xf0 /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o)
+ .text          0x00000000        0x0 /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-atexit.o)
+ .data          0x00000000        0x0 /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-atexit.o)
+ .bss           0x00000000        0x0 /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-atexit.o)
+ .text          0x00000000        0x0 /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-fini.o)
+ .data          0x00000000        0x0 /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-fini.o)
+ .bss           0x00000000        0x0 /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-fini.o)
+ .text          0x00000000        0x0 /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__atexit.o)
+ .data          0x00000000        0x0 /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__atexit.o)
+ .bss           0x00000000        0x0 /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__atexit.o)
+ .text          0x00000000        0x0 /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/crtend.o
+ .data          0x00000000        0x0 /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/crtend.o
+ .bss           0x00000000        0x0 /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/crtend.o
+ .eh_frame      0x00000000        0x4 /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/crtend.o
+ .jcr           0x00000000        0x4 /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/crtend.o
+ .ARM.attributes
+                0x00000000       0x2d /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/crtend.o
+ .text          0x00000000        0x0 /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/crtn.o
+ .data          0x00000000        0x0 /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/crtn.o
+ .bss           0x00000000        0x0 /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x08000000         0x00020000         xr
+RAM              0x20000000         0x00004000         xrw
+MEMORY_B1        0x60000000         0x00000000         xr
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/crti.o
+LOAD /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/crtbegin.o
+LOAD /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+                0x00001000                malloc_getpagesize_P = 0x1000
+LOAD ./User/stm32l1xx_it.o
+LOAD ./GNU/startup_stm32l1xx_md.o
+LOAD ./main.o
+LOAD /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a
+START GROUP
+LOAD /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/libgcc.a
+LOAD /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a
+END GROUP
+LOAD /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/crtend.o
+LOAD /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/crtn.o
+                0x20004000                _estack = 0x20004000
+                0x00000000                _Min_Heap_Size = 0x0
+                0x00000080                _Min_Stack_Size = 0x80
+
+.isr_vector     0x08000000      0x10c
+                0x08000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x10c ./GNU/startup_stm32l1xx_md.o
+                0x08000000                g_pfnVectors
+                0x0800010c                . = ALIGN (0x4)
+
+.text           0x0800010c      0x6e0
+                0x0800010c                . = ALIGN (0x4)
+ *(.text)
+ .text          0x0800010c       0x54 /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/crtbegin.o
+ *(.text*)
+ .text.NMI_Handler
+                0x08000160        0x2 ./User/stm32l1xx_it.o
+                0x08000160                NMI_Handler
+ .text.HardFault_Handler
+                0x08000162        0x2 ./User/stm32l1xx_it.o
+                0x08000162                HardFault_Handler
+ .text.MemManage_Handler
+                0x08000164        0x2 ./User/stm32l1xx_it.o
+                0x08000164                MemManage_Handler
+ .text.BusFault_Handler
+                0x08000166        0x2 ./User/stm32l1xx_it.o
+                0x08000166                BusFault_Handler
+ .text.UsageFault_Handler
+                0x08000168        0x2 ./User/stm32l1xx_it.o
+                0x08000168                UsageFault_Handler
+ .text.SVC_Handler
+                0x0800016a        0x2 ./User/stm32l1xx_it.o
+                0x0800016a                SVC_Handler
+ .text.DebugMon_Handler
+                0x0800016c        0x2 ./User/stm32l1xx_it.o
+                0x0800016c                DebugMon_Handler
+ .text.PendSV_Handler
+                0x0800016e        0x2 ./User/stm32l1xx_it.o
+                0x0800016e                PendSV_Handler
+ .text.SysTick_Handler
+                0x08000170        0xc ./User/stm32l1xx_it.o
+                0x08000170                SysTick_Handler
+ .text.Reset_Handler
+                0x0800017c       0x50 ./GNU/startup_stm32l1xx_md.o
+                0x0800017c                Reset_Handler
+ .text.Default_Handler
+                0x080001cc        0x4 ./GNU/startup_stm32l1xx_md.o
+                0x080001cc                RTC_Alarm_IRQHandler
+                0x080001cc                EXTI2_IRQHandler
+                0x080001cc                TIM10_IRQHandler
+                0x080001cc                USB_HP_IRQHandler
+                0x080001cc                TIM6_IRQHandler
+                0x080001cc                PVD_IRQHandler
+                0x080001cc                EXTI3_IRQHandler
+                0x080001cc                EXTI0_IRQHandler
+                0x080001cc                I2C2_EV_IRQHandler
+                0x080001cc                SPI1_IRQHandler
+                0x080001cc                USB_FS_WKUP_IRQHandler
+                0x080001cc                DMA1_Channel4_IRQHandler
+                0x080001cc                ADC1_IRQHandler
+                0x080001cc                USART3_IRQHandler
+                0x080001cc                DMA1_Channel7_IRQHandler
+                0x080001cc                LCD_IRQHandler
+                0x080001cc                TIM4_IRQHandler
+                0x080001cc                I2C1_EV_IRQHandler
+                0x080001cc                DMA1_Channel6_IRQHandler
+                0x080001cc                TIM3_IRQHandler
+                0x080001cc                RCC_IRQHandler
+                0x080001cc                DMA1_Channel1_IRQHandler
+                0x080001cc                Default_Handler
+                0x080001cc                EXTI15_10_IRQHandler
+                0x080001cc                TIM7_IRQHandler
+                0x080001cc                EXTI9_5_IRQHandler
+                0x080001cc                TIM9_IRQHandler
+                0x080001cc                TAMPER_STAMP_IRQHandler
+                0x080001cc                RTC_WKUP_IRQHandler
+                0x080001cc                SPI2_IRQHandler
+                0x080001cc                DMA1_Channel5_IRQHandler
+                0x080001cc                USB_LP_IRQHandler
+                0x080001cc                EXTI4_IRQHandler
+                0x080001cc                DMA1_Channel3_IRQHandler
+                0x080001cc                COMP_IRQHandler
+                0x080001cc                WWDG_IRQHandler
+                0x080001cc                TIM2_IRQHandler
+                0x080001cc                DAC_IRQHandler
+                0x080001cc                EXTI1_IRQHandler
+                0x080001cc                TIM11_IRQHandler
+                0x080001cc                USART2_IRQHandler
+                0x080001cc                I2C2_ER_IRQHandler
+                0x080001cc                DMA1_Channel2_IRQHandler
+                0x080001cc                FLASH_IRQHandler
+                0x080001cc                USART1_IRQHandler
+                0x080001cc                I2C1_ER_IRQHandler
+ .text.startup.main
+                0x080001d0      0x128 ./main.o
+                0x080001d0                main
+ .text.TimingDelay_Decrement
+                0x080002f8       0x14 ./main.o
+                0x080002f8                TimingDelay_Decrement
+ .text.GPIO_Init
+                0x0800030c       0x82 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+                0x0800030c                GPIO_Init
+ .text.GPIO_WriteBit
+                0x0800038e        0xa /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+                0x0800038e                GPIO_WriteBit
+ .text.GPIO_PinAFConfig
+                0x08000398       0x24 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+                0x08000398                GPIO_PinAFConfig
+ .text.RCC_GetClocksFreq
+                0x080003bc       0xa4 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+                0x080003bc                RCC_GetClocksFreq
+ .text.RCC_AHBPeriphClockCmd
+                0x08000460       0x18 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+                0x08000460                RCC_AHBPeriphClockCmd
+ .text.RCC_APB1PeriphClockCmd
+                0x08000478       0x18 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+                0x08000478                RCC_APB1PeriphClockCmd
+ .text.USART_Init
+                0x08000490       0xac /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+                0x08000490                USART_Init
+ .text.USART_Cmd
+                0x0800053c       0x18 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+                0x0800053c                USART_Cmd
+ .text.USART_SendData
+                0x08000554        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+                0x08000554                USART_SendData
+ .text.USART_ReceiveData
+                0x0800055c        0x8 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+                0x0800055c                USART_ReceiveData
+ .text.USART_GetFlagStatus
+                0x08000564        0xc /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+                0x08000564                USART_GetFlagStatus
+ .text.SystemInit
+                0x08000570      0x114 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+                0x08000570                SystemInit
+ .text.__libc_init_array
+                0x08000684       0x50 /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-init.o)
+                0x08000684                __libc_init_array
+ .text.startup.register_fini
+                0x080006d4       0x14 /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o)
+ .text.atexit   0x080006e8        0xc /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-atexit.o)
+                0x080006e8                atexit
+ .text.__libc_fini_array
+                0x080006f4       0x30 /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-fini.o)
+                0x080006f4                __libc_fini_array
+ .text.__register_exitproc
+                0x08000724       0xa8 /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__atexit.o)
+                0x08000724                __register_exitproc
+ *(.rodata)
+ *(.rodata*)
+ .rodata.str1.4
+                0x080007cc        0x4 /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-impure.o)
+ .rodata._global_impure_ptr
+                0x080007d0        0x4 /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-impure.o)
+                0x080007d0                _global_impure_ptr
+ *(.glue_7)
+ .glue_7        0x00000000        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x00000000        0x0 linker stubs
+ *(.eh_frame)
+ .eh_frame      0x080007d4        0x0 /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/crtbegin.o
+ *(.init)
+ .init          0x080007d4        0x4 /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/crti.o
+                0x080007d4                _init
+ .init          0x080007d8        0x8 /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/crtn.o
+ *(.fini)
+ .fini          0x080007e0        0x4 /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/crti.o
+                0x080007e0                _fini
+ .fini          0x080007e4        0x8 /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/crtn.o
+                0x080007ec                . = ALIGN (0x4)
+                0x080007ec                _etext = .
+
+.vfp11_veneer   0x080007ec        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x080007ec        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x080007ec        0x0
+ .iplt          0x00000000        0x0 /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/crtbegin.o
+
+.rel.dyn        0x080007ec        0x0
+ .rel.iplt      0x00000000        0x0 /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/crtbegin.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x080007ec        0x0
+                0x080007ec                __exidx_start = .
+ *(.ARM.exidx*)
+                0x080007ec                __exidx_end = .
+
+.preinit_array  0x080007ec        0x0
+                0x080007ec                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array*)
+                0x080007ec                PROVIDE (__preinit_array_end, .)
+
+.init_array     0x080007ec        0x8
+                0x080007ec                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ .init_array.00000
+                0x080007ec        0x4 /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o)
+ *(.init_array*)
+ .init_array    0x080007f0        0x4 /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/crtbegin.o
+                0x080007f4                PROVIDE (__init_array_end, .)
+
+.fini_array     0x080007f4        0x4
+                0x080007f4                PROVIDE (__fini_array_start, .)
+ *(.fini_array*)
+ .fini_array    0x080007f4        0x4 /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/crtbegin.o
+ *(SORT(.fini_array.*))
+                0x080007f8                PROVIDE (__fini_array_end, .)
+                0x080007f8                _sidata = .
+
+.data           0x20000000      0x448 load address 0x080007f8
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                _sdata = .
+ *(.data)
+ *(.data*)
+ .data.PLLMulTable
+                0x20000000        0x9 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .data.APBAHBPrescTable
+                0x20000009       0x10 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ *fill*         0x20000019        0x7 
+ .data.impure_data
+                0x20000020      0x428 /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-impure.o)
+                0x20000448                . = ALIGN (0x4)
+                0x20000448                _edata = .
+
+.jcr            0x20000448        0x0 load address 0x08000c40
+ .jcr           0x20000448        0x0 /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/crtbegin.o
+
+.igot.plt       0x20000448        0x0 load address 0x08000c40
+ .igot.plt      0x00000000        0x0 /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/crtbegin.o
+                0x20000448                . = ALIGN (0x4)
+
+.bss            0x20000448       0x48 load address 0x08000c40
+                0x20000448                _sbss = .
+                0x20000448                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x20000448       0x1c /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/crtbegin.o
+ *(.bss*)
+ .bss.TimingDelay
+                0x20000464        0x4 ./main.o
+ *(COMMON)
+ COMMON         0x20000468       0x28 ./main.o
+                0x20000468                GPIO_InitStructure
+                0x20000470                USART_InitStructure
+                0x20000480                RCC_Clocks
+                0x20000490                . = ALIGN (0x4)
+                0x20000490                _ebss = .
+                0x20000490                __bss_end__ = _ebss
+                0x20000490                PROVIDE (end, _ebss)
+                0x20000490                PROVIDE (_end, _ebss)
+
+._user_heap_stack
+                0x20000490       0x80 load address 0x08000c88
+                0x20000490                . = ALIGN (0x4)
+                0x20000490                . = (. + _Min_Heap_Size)
+                0x20000510                . = (. + _Min_Stack_Size)
+ *fill*         0x20000490       0x80 
+                0x20000510                . = ALIGN (0x4)
+
+.memory_b1_text
+ *(.mb1text)
+ *(.mb1text*)
+ *(.mb1rodata)
+ *(.mb1rodata*)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x00000000       0x29
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x1d /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/crti.o
+ .ARM.attributes
+                0x0000001d       0x2d /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/crtbegin.o
+ .ARM.attributes
+                0x0000004a       0x33 ./User/stm32l1xx_it.o
+ .ARM.attributes
+                0x0000007d       0x21 ./GNU/startup_stm32l1xx_md.o
+ .ARM.attributes
+                0x0000009e       0x33 ./main.o
+ .ARM.attributes
+                0x000000d1       0x33 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .ARM.attributes
+                0x00000104       0x33 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .ARM.attributes
+                0x00000137       0x33 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .ARM.attributes
+                0x0000016a       0x33 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .ARM.attributes
+                0x0000019d       0x2d /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x000001ca       0x2d /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-init.o)
+ .ARM.attributes
+                0x000001f7       0x2d /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x00000224       0x2d /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x00000251       0x2d /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-fini.o)
+ .ARM.attributes
+                0x0000027e       0x2d /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x000002ab       0x1d /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/crtn.o
+OUTPUT(USART_Polling.elf elf32-littlearm)
+
+.debug_info     0x00000000     0x29a0
+ .debug_info    0x00000000      0x159 ./User/stm32l1xx_it.o
+ .debug_info    0x00000159       0x7a ./GNU/startup_stm32l1xx_md.o
+ .debug_info    0x000001d3      0x6af ./main.o
+ .debug_info    0x00000882      0x710 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .debug_info    0x00000f92      0xa46 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .debug_info    0x000019d8      0xa59 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .debug_info    0x00002431      0x56f /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+
+.debug_abbrev   0x00000000      0x907
+ .debug_abbrev  0x00000000       0xa5 ./User/stm32l1xx_it.o
+ .debug_abbrev  0x000000a5       0x12 ./GNU/startup_stm32l1xx_md.o
+ .debug_abbrev  0x000000b7      0x175 ./main.o
+ .debug_abbrev  0x0000022c      0x1cf /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .debug_abbrev  0x000003fb      0x20d /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .debug_abbrev  0x00000608      0x1b7 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .debug_abbrev  0x000007bf      0x148 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+
+.debug_aranges  0x00000000      0x3a8
+ .debug_aranges
+                0x00000000       0x60 ./User/stm32l1xx_it.o
+ .debug_aranges
+                0x00000060       0x28 ./GNU/startup_stm32l1xx_md.o
+ .debug_aranges
+                0x00000088       0x28 ./main.o
+ .debug_aranges
+                0x000000b0       0x88 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .debug_aranges
+                0x00000138      0x148 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .debug_aranges
+                0x00000280      0x100 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .debug_aranges
+                0x00000380       0x28 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+
+.debug_ranges   0x00000000      0x358
+ .debug_ranges  0x00000000       0x50 ./User/stm32l1xx_it.o
+ .debug_ranges  0x00000050       0x20 ./GNU/startup_stm32l1xx_md.o
+ .debug_ranges  0x00000070       0x18 ./main.o
+ .debug_ranges  0x00000088       0x78 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .debug_ranges  0x00000100      0x138 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .debug_ranges  0x00000238       0xf0 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .debug_ranges  0x00000328       0x30 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+
+.debug_macro    0x00000000     0xdb0f
+ .debug_macro   0x00000000      0x251 ./User/stm32l1xx_it.o
+ .debug_macro   0x00000251      0x850 ./User/stm32l1xx_it.o
+ .debug_macro   0x00000aa1       0x6f ./User/stm32l1xx_it.o
+ .debug_macro   0x00000b10       0x34 ./User/stm32l1xx_it.o
+ .debug_macro   0x00000b44       0x16 ./User/stm32l1xx_it.o
+ .debug_macro   0x00000b5a       0x44 ./User/stm32l1xx_it.o
+ .debug_macro   0x00000b9e      0x209 ./User/stm32l1xx_it.o
+ .debug_macro   0x00000da7       0x18 ./User/stm32l1xx_it.o
+ .debug_macro   0x00000dbf      0x735 ./User/stm32l1xx_it.o
+ .debug_macro   0x000014f4     0x6ba4 ./User/stm32l1xx_it.o
+ .debug_macro   0x00008098      0x43e ./User/stm32l1xx_it.o
+ .debug_macro   0x000084d6       0xb4 ./User/stm32l1xx_it.o
+ .debug_macro   0x0000858a       0xa9 ./User/stm32l1xx_it.o
+ .debug_macro   0x00008633      0x17f ./User/stm32l1xx_it.o
+ .debug_macro   0x000087b2       0x82 ./User/stm32l1xx_it.o
+ .debug_macro   0x00008834      0x3ae ./User/stm32l1xx_it.o
+ .debug_macro   0x00008be2       0xb9 ./User/stm32l1xx_it.o
+ .debug_macro   0x00008c9b      0x422 ./User/stm32l1xx_it.o
+ .debug_macro   0x000090bd      0x17d ./User/stm32l1xx_it.o
+ .debug_macro   0x0000923a      0x203 ./User/stm32l1xx_it.o
+ .debug_macro   0x0000943d      0x2b2 ./User/stm32l1xx_it.o
+ .debug_macro   0x000096ef       0x64 ./User/stm32l1xx_it.o
+ .debug_macro   0x00009753      0x325 ./User/stm32l1xx_it.o
+ .debug_macro   0x00009a78       0xc8 ./User/stm32l1xx_it.o
+ .debug_macro   0x00009b40       0xe1 ./User/stm32l1xx_it.o
+ .debug_macro   0x00009c21      0x413 ./User/stm32l1xx_it.o
+ .debug_macro   0x0000a034      0x5cf ./User/stm32l1xx_it.o
+ .debug_macro   0x0000a603      0x341 ./User/stm32l1xx_it.o
+ .debug_macro   0x0000a944      0x357 ./User/stm32l1xx_it.o
+ .debug_macro   0x0000ac9b      0x421 ./User/stm32l1xx_it.o
+ .debug_macro   0x0000b0bc      0x668 ./User/stm32l1xx_it.o
+ .debug_macro   0x0000b724      0x220 ./User/stm32l1xx_it.o
+ .debug_macro   0x0000b944       0x34 ./User/stm32l1xx_it.o
+ .debug_macro   0x0000b978       0x88 ./User/stm32l1xx_it.o
+ .debug_macro   0x0000ba00       0x35 ./User/stm32l1xx_it.o
+ .debug_macro   0x0000ba35       0x58 ./User/stm32l1xx_it.o
+ .debug_macro   0x0000ba8d       0x35 ./User/stm32l1xx_it.o
+ .debug_macro   0x0000bac2       0xa2 ./User/stm32l1xx_it.o
+ .debug_macro   0x0000bb64       0x16 ./User/stm32l1xx_it.o
+ .debug_macro   0x0000bb7a       0x97 ./User/stm32l1xx_it.o
+ .debug_macro   0x0000bc11       0x10 ./User/stm32l1xx_it.o
+ .debug_macro   0x0000bc21       0xef ./User/stm32l1xx_it.o
+ .debug_macro   0x0000bd10       0x52 ./User/stm32l1xx_it.o
+ .debug_macro   0x0000bd62       0x16 ./User/stm32l1xx_it.o
+ .debug_macro   0x0000bd78       0x43 ./User/stm32l1xx_it.o
+ .debug_macro   0x0000bdbb      0x180 ./User/stm32l1xx_it.o
+ .debug_macro   0x0000bf3b       0x10 ./User/stm32l1xx_it.o
+ .debug_macro   0x0000bf4b       0x22 ./User/stm32l1xx_it.o
+ .debug_macro   0x0000bf6d       0xbd ./User/stm32l1xx_it.o
+ .debug_macro   0x0000c02a       0x16 ./User/stm32l1xx_it.o
+ .debug_macro   0x0000c040      0x16c ./User/stm32l1xx_it.o
+ .debug_macro   0x0000c1ac      0x188 ./main.o
+ .debug_macro   0x0000c334       0x7c ./main.o
+ .debug_macro   0x0000c3b0      0x189 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .debug_macro   0x0000c539      0x85c /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .debug_macro   0x0000cd95      0x1fd /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .debug_macro   0x0000cf92      0x22f /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .debug_macro   0x0000d1c1      0x40d /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .debug_macro   0x0000d5ce      0x1a1 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .debug_macro   0x0000d76f      0x21a /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .debug_macro   0x0000d989      0x186 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+
+.debug_line     0x00000000     0x28d0
+ .debug_line    0x00000000      0x65b ./User/stm32l1xx_it.o
+ .debug_line    0x0000065b       0x7a ./GNU/startup_stm32l1xx_md.o
+ .debug_line    0x000006d5      0x5bf ./main.o
+ .debug_line    0x00000c94      0x670 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .debug_line    0x00001304      0x83d /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .debug_line    0x00001b41      0x7f5 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .debug_line    0x00002336      0x59a /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+
+.debug_str      0x00000000    0x5077d
+ .debug_str     0x00000000    0x4f098 ./User/stm32l1xx_it.o
+                              0x4f259 (size before relaxing)
+ .debug_str     0x0004f098      0x517 ./main.o
+                              0x4d5db (size before relaxing)
+ .debug_str     0x0004f5af      0x298 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+                              0x4d41c (size before relaxing)
+ .debug_str     0x0004f847      0x966 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+                              0x4daf9 (size before relaxing)
+ .debug_str     0x000501ad      0x4b4 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+                              0x4d704 (size before relaxing)
+ .debug_str     0x00050661      0x11c /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+                              0x4d2b9 (size before relaxing)
+
+.comment        0x00000000       0x70
+ .comment       0x00000000       0x70 ./User/stm32l1xx_it.o
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 ./main.o
+ .comment       0x00000000       0x71 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .comment       0x00000000       0x71 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .comment       0x00000000       0x71 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .comment       0x00000000       0x71 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+
+.debug_frame    0x00000000      0x7b8
+ .debug_frame   0x00000000       0xa8 ./User/stm32l1xx_it.o
+ .debug_frame   0x000000a8       0x40 ./main.o
+ .debug_frame   0x000000e8      0x114 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .debug_frame   0x000001fc      0x284 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .debug_frame   0x00000480      0x20c /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .debug_frame   0x0000068c       0x3c /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+ .debug_frame   0x000006c8       0x2c /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-init.o)
+ .debug_frame   0x000006f4       0x48 /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o)
+ .debug_frame   0x0000073c       0x20 /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-atexit.o)
+ .debug_frame   0x0000075c       0x2c /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-fini.o)
+ .debug_frame   0x00000788       0x30 /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__atexit.o)
+
+.debug_loc      0x00000000     0x11df
+ .debug_loc     0x00000000       0x1e ./main.o
+ .debug_loc     0x0000001e      0x321 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+ .debug_loc     0x0000033f      0x749 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+ .debug_loc     0x00000a88      0x64f /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+ .debug_loc     0x000010d7      0x108 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+
+Cross Reference Table
+
+Symbol                                            File
+ADC1_IRQHandler                                   ./GNU/startup_stm32l1xx_md.o
+AHBPrescTable                                     /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+BusFault_Handler                                  ./User/stm32l1xx_it.o
+COMP_IRQHandler                                   ./GNU/startup_stm32l1xx_md.o
+DAC_IRQHandler                                    ./GNU/startup_stm32l1xx_md.o
+DMA1_Channel1_IRQHandler                          ./GNU/startup_stm32l1xx_md.o
+DMA1_Channel2_IRQHandler                          ./GNU/startup_stm32l1xx_md.o
+DMA1_Channel3_IRQHandler                          ./GNU/startup_stm32l1xx_md.o
+DMA1_Channel4_IRQHandler                          ./GNU/startup_stm32l1xx_md.o
+DMA1_Channel5_IRQHandler                          ./GNU/startup_stm32l1xx_md.o
+DMA1_Channel6_IRQHandler                          ./GNU/startup_stm32l1xx_md.o
+DMA1_Channel7_IRQHandler                          ./GNU/startup_stm32l1xx_md.o
+DebugMon_Handler                                  ./User/stm32l1xx_it.o
+Default_Handler                                   ./GNU/startup_stm32l1xx_md.o
+EXTI0_IRQHandler                                  ./GNU/startup_stm32l1xx_md.o
+EXTI15_10_IRQHandler                              ./GNU/startup_stm32l1xx_md.o
+EXTI1_IRQHandler                                  ./GNU/startup_stm32l1xx_md.o
+EXTI2_IRQHandler                                  ./GNU/startup_stm32l1xx_md.o
+EXTI3_IRQHandler                                  ./GNU/startup_stm32l1xx_md.o
+EXTI4_IRQHandler                                  ./GNU/startup_stm32l1xx_md.o
+EXTI9_5_IRQHandler                                ./GNU/startup_stm32l1xx_md.o
+FLASH_IRQHandler                                  ./GNU/startup_stm32l1xx_md.o
+GPIO_DeInit                                       /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+GPIO_Init                                         /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+                                                  ./main.o
+GPIO_InitStructure                                ./main.o
+GPIO_PinAFConfig                                  /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+                                                  ./main.o
+GPIO_PinLockConfig                                /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+GPIO_ReadInputData                                /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+GPIO_ReadInputDataBit                             /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+GPIO_ReadOutputData                               /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+GPIO_ReadOutputDataBit                            /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+GPIO_ResetBits                                    /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+GPIO_SetBits                                      /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+GPIO_StructInit                                   /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+GPIO_ToggleBits                                   /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+GPIO_Write                                        /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+GPIO_WriteBit                                     /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+                                                  ./main.o
+HardFault_Handler                                 ./User/stm32l1xx_it.o
+I2C1_ER_IRQHandler                                ./GNU/startup_stm32l1xx_md.o
+I2C1_EV_IRQHandler                                ./GNU/startup_stm32l1xx_md.o
+I2C2_ER_IRQHandler                                ./GNU/startup_stm32l1xx_md.o
+I2C2_EV_IRQHandler                                ./GNU/startup_stm32l1xx_md.o
+LCD_IRQHandler                                    ./GNU/startup_stm32l1xx_md.o
+MemManage_Handler                                 ./User/stm32l1xx_it.o
+NMI_Handler                                       ./User/stm32l1xx_it.o
+PLLMulTable                                       /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+PVD_IRQHandler                                    ./GNU/startup_stm32l1xx_md.o
+PendSV_Handler                                    ./User/stm32l1xx_it.o
+RCC_AHBPeriphClockCmd                             /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+                                                  ./main.o
+RCC_AHBPeriphClockLPModeCmd                       /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+RCC_AHBPeriphResetCmd                             /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+                                                  /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_gpio.o)
+RCC_APB1PeriphClockCmd                            /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+                                                  ./main.o
+RCC_APB1PeriphClockLPModeCmd                      /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+RCC_APB1PeriphResetCmd                            /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+                                                  /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+RCC_APB2PeriphClockCmd                            /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+RCC_APB2PeriphClockLPModeCmd                      /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+RCC_APB2PeriphResetCmd                            /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+                                                  /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+RCC_AdjustHSICalibrationValue                     /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+RCC_AdjustMSICalibrationValue                     /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+RCC_ClearFlag                                     /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+RCC_ClearITPendingBit                             /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+RCC_ClockSecuritySystemCmd                        /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+RCC_Clocks                                        ./main.o
+RCC_DeInit                                        /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+RCC_GetClocksFreq                                 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+                                                  /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+RCC_GetFlagStatus                                 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+RCC_GetITStatus                                   /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+RCC_GetSYSCLKSource                               /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+RCC_HCLKConfig                                    /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+RCC_HSEConfig                                     /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+RCC_HSICmd                                        /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+RCC_IRQHandler                                    ./GNU/startup_stm32l1xx_md.o
+RCC_ITConfig                                      /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+RCC_LSEClockSecuritySystemCmd                     /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+RCC_LSEConfig                                     /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+RCC_LSICmd                                        /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+RCC_MCOConfig                                     /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+RCC_MSICmd                                        /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+RCC_MSIRangeConfig                                /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+RCC_PCLK1Config                                   /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+RCC_PCLK2Config                                   /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+RCC_PLLCmd                                        /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+RCC_PLLConfig                                     /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+RCC_RTCCLKCmd                                     /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+RCC_RTCCLKConfig                                  /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+RCC_RTCResetCmd                                   /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+RCC_SYSCLKConfig                                  /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+RCC_WaitForHSEStartUp                             /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_rcc.o)
+RTC_Alarm_IRQHandler                              ./GNU/startup_stm32l1xx_md.o
+RTC_WKUP_IRQHandler                               ./GNU/startup_stm32l1xx_md.o
+Reset_Handler                                     ./GNU/startup_stm32l1xx_md.o
+SPI1_IRQHandler                                   ./GNU/startup_stm32l1xx_md.o
+SPI2_IRQHandler                                   ./GNU/startup_stm32l1xx_md.o
+SVC_Handler                                       ./User/stm32l1xx_it.o
+SysTick_Handler                                   ./User/stm32l1xx_it.o
+SystemCoreClock                                   /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+SystemCoreClockUpdate                             /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+SystemInit                                        /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(system_stm32l1xx.o)
+                                                  ./GNU/startup_stm32l1xx_md.o
+TAMPER_STAMP_IRQHandler                           ./GNU/startup_stm32l1xx_md.o
+TIM10_IRQHandler                                  ./GNU/startup_stm32l1xx_md.o
+TIM11_IRQHandler                                  ./GNU/startup_stm32l1xx_md.o
+TIM2_IRQHandler                                   ./GNU/startup_stm32l1xx_md.o
+TIM3_IRQHandler                                   ./GNU/startup_stm32l1xx_md.o
+TIM4_IRQHandler                                   ./GNU/startup_stm32l1xx_md.o
+TIM6_IRQHandler                                   ./GNU/startup_stm32l1xx_md.o
+TIM7_IRQHandler                                   ./GNU/startup_stm32l1xx_md.o
+TIM9_IRQHandler                                   ./GNU/startup_stm32l1xx_md.o
+TimingDelay_Decrement                             ./main.o
+                                                  ./User/stm32l1xx_it.o
+USART1_IRQHandler                                 ./GNU/startup_stm32l1xx_md.o
+USART2_IRQHandler                                 ./GNU/startup_stm32l1xx_md.o
+USART3_IRQHandler                                 ./GNU/startup_stm32l1xx_md.o
+USART_ClearFlag                                   /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+USART_ClearITPendingBit                           /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+USART_ClockInit                                   /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+USART_ClockStructInit                             /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+USART_Cmd                                         /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+                                                  ./main.o
+USART_DMACmd                                      /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+USART_DeInit                                      /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+USART_GetFlagStatus                               /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+                                                  ./main.o
+USART_GetITStatus                                 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+USART_HalfDuplexCmd                               /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+USART_ITConfig                                    /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+USART_Init                                        /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+                                                  ./main.o
+USART_InitStructure                               ./main.o
+USART_IrDACmd                                     /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+USART_IrDAConfig                                  /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+USART_LINBreakDetectLengthConfig                  /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+USART_LINCmd                                      /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+USART_OneBitMethodCmd                             /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+USART_OverSampling8Cmd                            /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+USART_ReceiveData                                 /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+                                                  ./main.o
+USART_ReceiverWakeUpCmd                           /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+USART_SendBreak                                   /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+USART_SendData                                    /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+                                                  ./main.o
+USART_SetAddress                                  /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+USART_SetGuardTime                                /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+USART_SetPrescaler                                /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+USART_SmartCardCmd                                /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+USART_SmartCardNACKCmd                            /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+USART_StructInit                                  /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+USART_WakeUpConfig                                /home/oussema/projects/stm32/l/StdPeriph_v1.2.0_Lib/Debug/libStdPeriph_v1.2.0.a(stm32l1xx_usart.o)
+USB_FS_WKUP_IRQHandler                            ./GNU/startup_stm32l1xx_md.o
+USB_HP_IRQHandler                                 ./GNU/startup_stm32l1xx_md.o
+USB_LP_IRQHandler                                 ./GNU/startup_stm32l1xx_md.o
+UsageFault_Handler                                ./User/stm32l1xx_it.o
+WWDG_IRQHandler                                   ./GNU/startup_stm32l1xx_md.o
+_Jv_RegisterClasses                               /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/crtbegin.o
+__bss_end__                                       /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+__bss_start__                                     /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+__call_exitprocs                                  /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o)
+                                                  /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-exit.o)
+__deregister_frame_info                           /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/crtbegin.o
+__dso_handle                                      /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/crtbegin.o
+__fini_array_end                                  /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-fini.o)
+__fini_array_start                                /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-fini.o)
+__init_array_end                                  /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-init.o)
+__init_array_start                                /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-init.o)
+__libc_fini                                       /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o)
+__libc_fini_array                                 /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-fini.o)
+                                                  /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o)
+                                                  /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+__libc_init_array                                 /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-init.o)
+                                                  ./GNU/startup_stm32l1xx_md.o
+                                                  /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+__preinit_array_end                               /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-init.o)
+__preinit_array_start                             /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-init.o)
+__register_exitproc                               /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__atexit.o)
+                                                  /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-atexit.o)
+__register_frame_info                             /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/crtbegin.o
+__stack                                           /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+_ebss                                             ./GNU/startup_stm32l1xx_md.o
+_edata                                            ./GNU/startup_stm32l1xx_md.o
+_estack                                           ./GNU/startup_stm32l1xx_md.o
+_exit                                             /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-exit.o)
+_fini                                             /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/crti.o
+                                                  /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-fini.o)
+_global_impure_ptr                                /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-impure.o)
+                                                  /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__atexit.o)
+                                                  /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o)
+                                                  /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-exit.o)
+_impure_ptr                                       /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-impure.o)
+_init                                             /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/armv7-m/crti.o
+                                                  /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-init.o)
+_mainCRTStartup                                   /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+_sbss                                             ./GNU/startup_stm32l1xx_md.o
+_sdata                                            ./GNU/startup_stm32l1xx_md.o
+_sidata                                           ./GNU/startup_stm32l1xx_md.o
+_start                                            /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+atexit                                            /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-atexit.o)
+                                                  /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o)
+                                                  /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+exit                                              /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-exit.o)
+                                                  /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+free                                              /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__call_atexit.o)
+g_pfnVectors                                      ./GNU/startup_stm32l1xx_md.o
+hardware_init_hook                                /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+main                                              ./main.o
+                                                  ./GNU/startup_stm32l1xx_md.o
+                                                  /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+malloc                                            /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-__atexit.o)
+memset                                            /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/libc.a(lib_a-memset.o)
+                                                  /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/crt0.o
+software_init_hook                                /home/oussema/toolchains/gcc-arm-none-eabi-4_8-2014q2/bin/../lib/gcc/arm-none-eabi/4.8.4/../../../../arm-none-eabi/lib/armv7-m/crt0.o

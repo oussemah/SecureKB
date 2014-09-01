@@ -1,7 +1,0 @@
-Version:0.0.1:
-Tasks to do :
-
- 1- Clean up all the unnecessary parts (keymapping arrays, options parsing..etc)
- 2- Make the encryption method generic so that it can be customized easily
- 3- use optarg to define command line options ..etc
-
