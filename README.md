@@ -21,14 +21,14 @@ mcu part
 ========
 
 Use your preferred dev environment to build the code (or port it to your custom mcu..etc) then load it to your mcu.
-The provided code was compiled using arm-none-gnu toolchain , latest version available in August 2014 .
+The provided code was compiled using arm-none-eabi-gnu toolchain , latest version available in August 2014 .
 
 Make sure you have the toolchain installed and added to your path.
 Then go to the Std-blablabla/Debug folder , then type make.
 Do the same with USART_Polling/Debug folder ;
 You guessed right : This is based on a default project package for eclipse with very minor modifications.
 
-I use arm-none-objcopy -Obinary to get the binary from elf.
+I use arm-none-eabi-objcopy -Obinary to get the binary from elf.
 Then i used openocd to flasht hat on the stm32 starting from offset 0x8000000
 
 Drop me a word if you need any help with any of the steps above.
