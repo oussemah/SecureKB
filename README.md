@@ -1,4 +1,4 @@
-securekb
+SecureKB
 ========
 
 This project is about using an MCU board (any MCU that's able to communicate through UART) to encrypt keyboard strokes before they are handled by the operating system.
